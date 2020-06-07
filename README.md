@@ -19,7 +19,6 @@ is an acronym which stands for the following design principles (and their abbrev
 ## Code
 * c++14 standard
 * tested under WSL/gcc version 7.4.0 (Ubuntu 18.04.1)
-* [code online](https://github.com/justwawre/Alex/tree/master/designPatterns)
 
 
 ## reference
